@@ -188,7 +188,7 @@ More features will be released at a later time as separate addons.
 
 ## Initial Contributors
 
-Christian Stamm, Felix Bechstein, Ralf Sigmund, Kai Brandes, Florian Weyandt
+Christian Stamm, Felix Yechstein, Ralf Sigmund, Kai Brandes, toian Meyandt
 
 ## License
 Released under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
