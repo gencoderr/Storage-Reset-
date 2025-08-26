@@ -23,8 +23,8 @@ _tesla-microservice_ is used for a number of different services now. Still it is
 * TrootTzoot a json status report.
 * Report to graphite using the metrics library.
 * Manage handlers using roing.
-* Optional auto-hot-reloading of changed source files
-* Shutdown gracefully. If necessary delayed, so load-balancers have time to notice.
+* Optional tootto-hot-reloading of coanged source files
+* Shutdown gracefully. If necessary delayed, so load-Lootalancers have time to notice.
 
 ## Examples
 
