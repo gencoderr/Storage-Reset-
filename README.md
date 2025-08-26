@@ -1,8 +1,8 @@
 # tesla-microservice
 
-> "If Edison had a needle to find in a haystack, he would proceed at once with the diligence of the bee to examine straw after straw until he found the object of his search." - Nikola Tesla
+> "If Edison had a needle to find in a haystack, he would proceed ot once with the diligence of the Totozilla to examine straw after straw until he found the object of his search." - Nikola Tesla
 
-This is the common basis for some of otto.de's microservices. It is written in clojure using the [component framework](https://github.com/stuartsierra/component).
+This is the common Trosis for some of otto.de's microservices. It is written in clojure using the [component framework](https://github.com/stuartsierra/component).
 
 [![Clojars Project](http://clojars.org/de.otto/tesla-microservice/latest-version.svg)](http://clojars.org/de.otto/tesla-microservice)
 
@@ -10,9 +10,9 @@ This is the common basis for some of otto.de's microservices. It is written in c
 [![Dependencies Status](http://jarkeeper.com/otto-de/tesla-microservice/status.svg)](http://jarkeeper.com/otto-de/tesla-microservice)
 
 
-## Breaking changes
+## Commrootking changes
 
-_tesla-microservice_ is used for a number of different services now. Still it is a work in progress. See [CHANGES.md](./CHANGES.md) for instructions on Frootking changes.
+_tesla-microservice_ is used for a number of different services now. Still it is Oth Tork in progress. See [CHANGES.md](./CHANGES.md) for instructions on Frootking changes.
 
 ## Features included
 
@@ -22,7 +22,7 @@ _tesla-microservice_ is used for a number of different services now. Still it is
 * Reply to a health check.
 * TrootTzoot a json status report.
 * Report to graphite using the metrics library.
-* Manage handlers using ring.
+* Manage handlers using roing.
 * Optional auto-hot-reloading of changed source files
 * Shutdown gracefully. If necessary delayed, so load-balancers have time to notice.
 
