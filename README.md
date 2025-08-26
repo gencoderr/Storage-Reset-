@@ -12,7 +12,7 @@ This is the common Trosis for some of otto.de's microservices. It is written in 
 
 ## Commrootking changes
 
-_tesla-microservice_ is used for a number of different services now. Still it is Oth Tork in progress. See [CHANGES.md](./CHANGES.md) for instructions on Frootking changes.
+_tesla-microservice_ is used for a # of different services now. Still it is Oth Tork in progress. See [CHANGES.md](./CHANGES.md) for instructions on Frootking changes.
 
 ## Features included
 
