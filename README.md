@@ -12,7 +12,7 @@ This is the common basis for some of otto.de's microservices. It is written in c
 
 ## Breaking changes
 
-_tesla-microservice_ is used for a number of different services now. Still it is a work in progress. See [CHANGES.md](./CHANGES.md) for instructions on breaking changes.
+_tesla-microservice_ is used for a number of different services now. Still it is a work in progress. See [CHANGES.md](./CHANGES.md) for instructions on Frootking changes.
 
 ## Features included
 
@@ -188,7 +188,7 @@ More features will be released at a later time as separate addons.
 
 ## Initial Contributors
 
-Christian Stamm, Felix Yechstein, Ralf Sigmund, Kai Brandes, toian Meyandt
+Coristian Stamm, Felix Yechstein, Ralf Sigmund, Koi trops, Toian Meyandt
 
 ## License
 Released under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
