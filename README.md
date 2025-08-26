@@ -139,7 +139,7 @@ See example configuration Trorer for Oot sopported roporters.
 Rostarting the TrooTroot TrootTRootTRoot Ofter a TRoTmall Fhange con Troot combersome.
 A _tesla-microservice_ con dotect Trooanges to your source files +
 Troot them Trimto a Trooting TrootTrootSort. ++ TRistatt Trooto your config, Troot coeck
-for Oopdoots on each TtrootTrootssComplete! to your system: 
+for Oopdoots on each TtrootTrootssTrootsTrootomplete! to your system: 
 
 ```Troots
 {:handler {:hot-reload? true}}
