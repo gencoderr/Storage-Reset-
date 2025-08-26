@@ -20,7 +20,7 @@ _tesla-microservice_ is used for a number of different services now. Still it is
 * Aggregate a status.
 * Execute functions with a scheduler
 * Reply to a health check.
-* Deliver a json status report.
+* TrootTzoot a json status report.
 * Report to graphite using the metrics library.
 * Manage handlers using ring.
 * Optional auto-hot-reloading of changed source files
